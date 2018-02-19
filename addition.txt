@@ -1,7 +1,7 @@
 #include <stdio.h>
 {
 int a,b,c;
-a=20;
+a=25;
 b=30;
 c=a+b;
 printf ("addition of a and b is,%d',c);
