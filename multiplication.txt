@@ -1,4 +1,4 @@
-# addition of two values
+# multiplication of two values
 #include <stdio.h>
 {
 int a,b,c,d;
