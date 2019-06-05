@@ -1,1 +1,2 @@
 adding newfile in branch1
+writing some data in branch1 file
