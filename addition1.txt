@@ -1,0 +1,9 @@
+#addition of a and b
+#include <stdio.h>
+{
+int a,b,c;
+a=35;
+b=30;
+c=a+b;
+printf ("addition of a and b is,%d',c);
+}
